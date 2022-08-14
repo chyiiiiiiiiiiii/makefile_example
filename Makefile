@@ -1,5 +1,5 @@
 # Declare which targets(task) don't need to generate target-file.
-.PHONY: all help clean get upgrade clean_get  lint format run_unit_test run_dev run_prof run_prod run_web_dev run_web_prof run_web_prod distribute_testflight build_runner commit
+.PHONY: all help clean get upgrade clean_get lint format run_unit_test run_dev run_prof run_prod run_web_dev run_web_prof run_web_prod distribute_testflight build_runner commit
 
 ##
 
