@@ -1,16 +1,24 @@
-# makefile_example
+# makefile-example
 
-A new Flutter project.
+<img src="./images/cover.png"></img>
 
-## Getting Started
+<b>Makefile</b> is a perfect tool that can greatly help developers, improve efficiency and save time. And you only need to create a Makefile file that belongs to yourself or your team, and then you can use it in each project.
 
-This project is a starting point for a Flutter application.
+Medium Artical: [Use Makefile to Save Your Time in Flutter]()
 
-A few resources to get you started if this is your first Flutter project:
+## Contribute
+- You can star and share with other developers if you feel good and learn something from this repository.
+- If you have some ideas, please discuss them with me or commit PR.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## More of me
+[![Medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://yiichenhi.medium.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yiichenhi/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yiichenhi)
+[![instagram](https://img.shields.io/badge/instagram-C6317F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/flutterluvr.yii/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Donate and encourage me
+[![BuyMeACoffee][buy_me_a_coffee_badge]][buy_me_a_coffee]
+
+<!-- Links -->
+[buy_me_a_coffee]: https://www.buymeacoffee.com/yiichenhi
+[buy_me_a_coffee_badge]: https://img.buymeacoffee.com/button-api/?text=Sponsor&emoji=&slug=yiichenhi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff&size=64
