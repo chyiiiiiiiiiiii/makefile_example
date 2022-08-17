@@ -4,7 +4,7 @@
 
 <b>Makefile</b> is a perfect tool that can greatly help developers, improve efficiency and save time. And you only need to create a Makefile file that belongs to yourself or your team, and then you can use it in each project.
 
-Medium Artical: [Use Makefile to Save Your Time in Flutter]()
+Medium Artical: [Use Makefile to Save Your Time in Flutter](https://yiichenhi.medium.com/%E5%A6%82%E4%BD%95%E5%9C%A8flutter%E4%BD%BF%E7%94%A8-makefile-%E7%AF%80%E7%9C%81%E4%BD%A0%E7%9A%84%E6%99%82%E9%96%93-7408bdf458de)
 
 ## Contribute
 - You can star and share with other developers if you feel good and learn something from this repository.
